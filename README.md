@@ -1,2 +1,2 @@
-# PhotoramaAPP_ObjectiveC
-PhotoramaAPP_ObjectiveC
+# PhotoramaApp_ObjectiveC
+PhotoramaApp_ObjectiveC
